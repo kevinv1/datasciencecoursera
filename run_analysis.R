@@ -82,3 +82,4 @@ x <- read.table("tidydata.txt", stringsAsFactors=FALSE, header=T)
 #http://www.r-bloggers.com/a-quick-primer-on-split-apply-combine-problems/
 #http://www.r-bloggers.com/using-r-quickly-calculating-summary-statistics-from-a-data-frame/
 #http://stats.stackexchange.com/questions/8225/how-to-summarize-data-by-group-in-r
+
